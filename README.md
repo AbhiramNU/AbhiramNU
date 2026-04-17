@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=AbhiramNU&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge"/>
 
 </div>
 
@@ -59,11 +59,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AbhiramNU&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiramNU&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramNU&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -73,7 +73,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=matrix&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AbhiramNU&theme=matrix&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -84,9 +84,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/AbhiramNU/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/AbhiramNU/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/yourusername/AbhiramNU/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </picture>
 
 </div>
