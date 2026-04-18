@@ -19,18 +19,18 @@
 - 🎓 Engineering student at **NMAMIT**
 - 💻 Building **full stack projects**
 - 🧠 Interested in **Machine Learning & Data Science**
-- 🔧 Currently working on **Student Attendance Management System**
+
 - 🎯 Goal: **Software Engineer**
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages:** C, Java, Python, JavaScript, SQL  
-**Frontend:** HTML, CSS, React  
-**Backend:** Node.js, PHP  
-**Database:** MySQL  
-**ML:** scikit-learn, pandas, numpy  
+**Languages:** Python, Java,  JavaScript, SQL  
+**Frontend:** HTML, CSS, React , Tailwind , Astro , Next , Vite
+**Backend:** Node.js, SpringBoot, Flask , FastAPI , Supabase , PHP 
+**Database:** MySQL , MongoDB , Prisma , PostgresSQL
+**ML:** scikit-learn, pandas, numpy , Regression , Classification , OpenCV 
 **Tools:** Git, VS Code  
 
 ---
