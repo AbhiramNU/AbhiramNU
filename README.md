@@ -27,11 +27,11 @@
 ## 💻 Tech Stack
 
 **Languages:** Python, Java,  JavaScript, SQL  
-**Frontend:** HTML, CSS, React , Tailwind , Astro , Next , Vite
-**Backend:** Node.js, SpringBoot, Flask , FastAPI , Supabase , PHP 
-**Database:** MySQL , MongoDB , Prisma , PostgresSQL
-**ML:** scikit-learn, pandas, numpy , Regression , Classification , OpenCV 
-**Tools:** Git, VS Code  
+**Frontend:** HTML, CSS, React , Tailwind , Astro , Next , Vite  
+**Backend:** Node.js, SpringBoot, Flask , FastAPI , Supabase , PHP   
+**Database:** MySQL , MongoDB , Prisma , PostgresSQL  
+**ML:** scikit-learn, pandas, numpy , Regression , Classification , OpenCV   
+**Tools:** Git, VS Code    
 
 ---
 
