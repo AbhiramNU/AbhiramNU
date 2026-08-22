@@ -16,42 +16,52 @@
 
 ## 🧠 About Me
 
-- 🎓 Engineering student at **NMAMIT**
-- 💻 Building **full stack projects**
-- 🧠 Interested in **Machine Learning & Data Science**
-
-- 🎯 Goal: **Software Engineer**
+- 💼 **Software Development Intern** @ **Sahasranshu Technologies**
+- 🎓 CS Engineering Student @ **NMAMIT** (*CGPA: 8.9 / 10*)
+- ⚡ Building **Full-Stack Applications, Computer Vision Pipelines, & AI Integrations**
+- 🎭 **Incoming Cultural Head** for Incridea '27
+- 💻 **Interactive VS Code Portfolio:** [abhiram-nu-portfolio.vercel.app](https://abhiram-nu-portfolio.vercel.app/)
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages:** Python, Java,  JavaScript, SQL  
-**Frontend:** HTML, CSS, React , Tailwind , Astro , Next , Vite  
-**Backend:** Node.js, SpringBoot, Flask , FastAPI , Supabase , PHP   
-**Database:** MySQL , MongoDB , Prisma , PostgresSQL  
-**ML:** scikit-learn, pandas, numpy , Regression , Classification , OpenCV   
-**Tools:** Git, VS Code    
+**Languages:** Python, Java, TypeScript, JavaScript, SQL, C  
+**Frontend:** HTML, CSS, React, Tailwind CSS, Astro, Vite, Next.js  
+**Backend:** Node.js, Spring Boot, Flask, FastAPI, Supabase Edge Functions  
+**Database:** MySQL, MongoDB, PostgreSQL, SQLite  
+**ML / CV:** TensorFlow, OpenCV 4.x, MediaPipe, DeepFace (FaceNet), scikit-learn  
+**Tools:** Git, Docker, VS Code, Postman  
 
 ---
 
 ## 🚀 Projects
 
-### 🔹 Student Attendance Management System
-- Full stack system with authentication  
-- Faculty & student login separation  
-- Built using PHP, MySQL, JavaScript  
-- Focus: real-world DBMS implementation  
+### 🔹 [Sahasranshu Technologies Corporate Website](https://www.sahasranshu.com/)
+- Corporate web platform for defence & critical-infrastructure intelligence platforms.
+- Built with React 18, TypeScript, Tailwind CSS, TanStack Router, Vercel.
 
-### 🔹 Machine Learning Models
-- Regression & classification models  
-- Evaluated using MAE, MSE, R²  
-- Built using scikit-learn  
+### 🔹 [SentriCam – Biometric Surveillance System](https://github.com/AbhiramNU/SentriCam)
+- 100% on-device, 30fps real-time facial recognition & tracking system with zero cloud dependency.
+- Powered by TensorFlow, OpenCV, FaceNet (128D embeddings), Flask, SQLite.
 
-### 🔹 Web Development Projects
-- Responsive UI projects  
-- Interactive JavaScript features  
-- Clean UI/UX  
+### 🔹 [Parixa – AI-Powered Examination Platform](https://parixa-xi.vercel.app)
+- Full-stack AI-proctored examination platform ensuring integrity via automated question shuffling.
+- Built with Node.js, Express, MongoDB, & Gemini API.
+
+### 🔹 [VoltStrata – AI Smart Grid Intelligence](https://volt-strata.vercel.app/)
+- Predictive household energy forecasting platform trained on 2M+ UCI power consumption records.
+- FastAPI engine (Render) + React/Astro simulator (Vercel).
+
+### 🔹 [ConvoLens – AI WhatsApp Analyzer](https://convolensapp.vercel.app/)
+- Privacy-first web app that turns WhatsApp chat exports into structured JSON briefs.
+- Built with React 18, TypeScript, Supabase Edge Functions, Gemini 1.5 Flash.
+
+### 🔹 [ColorCraft – Image Colorization Web App](https://github.com/AbhiramNU/ColorCraft)
+- Deep learning image colorization platform using OpenCV DNN, Flask, Spring Boot, & React.
+
+### 🔹 [GitAIR 🎸 – Vision Guitar Chord Recognition](https://github.com/AbhiramNU/GitAIR)
+- Webcam air guitar chord recognition using MediaPipe 63D landmarks & KNN classifier.
 
 ---
 
@@ -97,9 +107,10 @@
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-00f7ff?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=00f7ff"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-facc15?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://linkedin.com/in/abhiramnu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-00f7ff?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+<a href="https://github.com/AbhiramNU" target="_blank"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=00f7ff"/></a>
+<a href="https://leetcode.com/u/AbhiramNU/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-facc15?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:abhiram.udupa@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
